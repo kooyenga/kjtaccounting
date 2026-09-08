@@ -31,6 +31,7 @@ a { color: inherit; }
 }
 .nav-wrap { min-height: 82px; display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .brand { text-decoration: none; display: inline-flex; flex-direction: column; line-height: 1; color: var(--navy); letter-spacing: .15em; }
+.brand img { width: 125px; height: auto; }
 .brand-main { font-family: Georgia, "Times New Roman", serif; font-size: 34px; letter-spacing: .14em; }
 .brand-sub { font-size: 11px; margin-top: 8px; font-weight: 700; }
 .nav { display: flex; gap: 26px; align-items: center; }
